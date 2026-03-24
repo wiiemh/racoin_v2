@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"AnnonceTest::testCanInstantiateAnnonce":0.611,"AnnonceTest::testTableIsCorrect":0.025,"AnnonceTest::testPrimaryKeyIsCorrect":0,"AnnonceTest::testTimestampsDisabled":0.03}}
